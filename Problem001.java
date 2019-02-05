@@ -1,5 +1,4 @@
 
-
 public class Problem001 {
 
     public static void main (String[] args) {
@@ -13,6 +12,7 @@ public class Problem001 {
                 answer += idx;
             }
         }
+
         return answer;
     }
 }
