@@ -9,6 +9,7 @@ public class Problem002 {
     static List<Integer> intList;
 
     public static void main (String[] args) {
+
         System.out.println(solveProblem002());
     }
 

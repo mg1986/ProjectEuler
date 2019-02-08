@@ -3,6 +3,7 @@ package com.mg1986;
 public class Problem001 {
 
     public static void main (String[] args) {
+
         System.out.println(solveProblem001());
     }
 
