@@ -1,18 +1,20 @@
+package com.mg1986;
+
 import java.util.List;
 import java.util.ArrayList;
 
 public class Problem002 {
 
     static final int limit = 4_000_000;
-    static ArrayList<Integer> intList;
+    static List<Integer> intList;
 
     public static void main (String[] args) {
-        System.out.println(solveProblem());
+        System.out.println(solveProblem002());
     }
 
-    public static int solveProblem() {
+    private static int solveProblem002() {
 
-        intList = new ArrayList()
+        intList = new ArrayList();
         intList.add(1);
         intList.add(2);
 
