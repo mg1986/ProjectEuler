@@ -1,4 +1,4 @@
-package com.mg1986.ProjectEuler;
+package com.mg1986.projecteuler;
 
 import java.util.List;
 import java.util.ArrayList;

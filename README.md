@@ -1,2 +1,2 @@
-# ProjectEulerJava
-My answers to Project Euler problems written in Java.
+# ProjectEuler
+My solutions to Project Euler math problems written in Java.

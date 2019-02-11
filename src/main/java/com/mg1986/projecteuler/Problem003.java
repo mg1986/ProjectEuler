@@ -1,4 +1,4 @@
-package com.mg1986.ProjectEuler;
+package com.mg1986.projecteuler;
 
 public class Problem003 {
 
