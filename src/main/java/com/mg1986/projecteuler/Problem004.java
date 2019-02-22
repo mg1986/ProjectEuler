@@ -21,8 +21,8 @@ public class Problem004 {
         for (int idx1 = 999; idx1 > 0; idx1--) {
             for (int idx2 = 999; idx2 > 0; idx2--) {
                 int intToCheck = idx1 * idx2;
-                if (isPalindrome(intToCheck)) {
-                   return intToCheck;
+                if (isPalindrome(intToCheck) && intToCheck > biggestPalindrome) {
+                    biggestPalindrome = intToCheck;
                 }
             }
         }
