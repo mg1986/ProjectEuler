@@ -18,10 +18,10 @@ package com.mg1986.projecteuler;
 public class Problem006 {
 
     public static void main(String[] args) {
-        System.out.println(solveProblem006());
+        System.out.println(solveProblem());
     }
 
-    private static long solveProblem006() {
+    private static long solveProblem() {
 
         long sumOfSquares = 0;
         long sumOfNumbers = 0;

@@ -21,10 +21,10 @@ public class Problem002 {
 
     public static void main (String[] args) {
 
-        System.out.println(solveProblem002());
+        System.out.println(solveProblem());
     }
 
-    private static int solveProblem002() {
+    private static int solveProblem() {
 
         intList = new ArrayList();
         intList.add(1);

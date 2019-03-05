@@ -12,10 +12,10 @@ package com.mg1986.projecteuler;
 public class Problem007 {
 
     public static void main(String[] args) {
-        System.out.println(solveProblem007());
+        System.out.println(solveProblem());
     }
 
-    private static long solveProblem007() {
+    private static long solveProblem() {
 
         long primeCounter = 0;
         long prime10001 = 0;

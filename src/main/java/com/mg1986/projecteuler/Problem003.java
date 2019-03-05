@@ -15,10 +15,10 @@ public class Problem003 {
     private static final int startNum = 2;
 
     public static void main(String[] args) {
-        System.out.println(solveProblem003());
+        System.out.println(solveProblem());
     }
 
-    private static long solveProblem003() {
+    private static long solveProblem() {
 
         return findLargestPrimeFactorial(limit, 1);
     }

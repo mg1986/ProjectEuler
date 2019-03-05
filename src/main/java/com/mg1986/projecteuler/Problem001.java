@@ -12,10 +12,10 @@ public class Problem001 {
 
     public static void main (String[] args) {
 
-        System.out.println(solveProblem001());
+        System.out.println(solveProblem());
     }
 
-    private static int solveProblem001() {
+    private static int solveProblem() {
         int answer = 0;
         for (int idx = 1; idx < 1000; idx++) {
             if (idx % 3 == 0 || idx % 5 == 0) {
